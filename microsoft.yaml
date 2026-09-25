@@ -82,9 +82,3 @@ payload:
   - DOMAIN-SUFFIX,mesh.com
   - DOMAIN-SUFFIX,sfx.ms
   - DOMAIN-SUFFIX,fabric.io
-  - DOMAIN-SUFFIX,tv.cloudcdn.me
-  - DOMAIN-SUFFIX,cbsnews.com
-  - IP-CIDR,79.127.138.223/32
-  - IP-CIDR,79.127.138.0/24
-  - IP-CIDR,144.24.62.197/32
-  - IP-CIDR6,::/0
