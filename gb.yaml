@@ -48,3 +48,7 @@ payload:
   - DOMAIN-SUFFIX,cwtv.com
   - DOMAIN-SUFFIX,aetv.com
   - DOMAIN-SUFFIX,ccpa-service.sp-prod.net
+  - DOMAIN-SUFFIX,linear417-gb-hls1-prd-ak.cdn.skycdp.com
+  - DOMAIN-SUFFIX,t-mobile.pl
+  - DOMAIN-SUFFIX,t-online.de
+  - DOMAIN-SUFFIX,telekom.me
