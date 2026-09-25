@@ -23,3 +23,9 @@ payload:
   - DOMAIN-KEYWORD,RTHKTV34
   - DOMAIN-KEYWORD,RTHKTV35
   - DOMAIN-KEYWORD,RTHKTV36
+  - DOMAIN,pccw-live-cdn-01.akamaized.net
+  - DOMAIN,cdn.qd.je
+  - DOMAIN-SUFFIX,qd.je
+  - DOMAIN-SUFFIX,skygo.mn
+  - DOMAIN-SUFFIX,cdn1.skygo.mn
+  - DOMAIN-SUFFIX,cdn4.skygo.mn
