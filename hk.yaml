@@ -43,4 +43,5 @@ payload:
   - DOMAIN-SUFFIX,edgeware.tvb.com
   - DOMAIN-SUFFIX,cdn.veryfast.filegear-sg.me
   - DOMAIN-SUFFIX,veryfast.filegear-sg.me
+  - DOMAIN-SUFFIX,hrtn.net
   - IP-CIDR,77.90.60.0/24
