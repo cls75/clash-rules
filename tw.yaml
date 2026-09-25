@@ -33,3 +33,7 @@ payload:
   - DOMAIN-SUFFIX,hamivideo.hinet.net
   - DOMAIN-SUFFIX,scc.ott.hinet.net
   - DOMAIN-SUFFIX,livetv.catchplay.com
+  - DOMAIN-SUFFIX,api2.4gtv.tv
+  - DOMAIN-SUFFIX,tv.iill.top
+  - DOMAIN-SUFFIX,ofiii.com
+  - DOMAIN-SUFFIX,ha.msbot.dpdns.org
