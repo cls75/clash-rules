@@ -15,6 +15,13 @@ payload:
   - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
   - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
+  - DOMAIN-KEYWORD,viutv
+  - DOMAIN-SUFFIX,viu.now.com
+  - DOMAIN-SUFFIX,viu.tv
+  - PROCESS-NAME,com.viu.pad
+  - PROCESS-NAME,com.viu.phone
+  - PROCESS-NAME,com.vuclip.viu,
+  - DOMAIN-SUFFIX,viutv-cms.s3.amazonaws.com
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,hoy.tv
   - DOMAIN-KEYWORD,RTHKTV31
@@ -29,3 +36,11 @@ payload:
   - DOMAIN-SUFFIX,skygo.mn
   - DOMAIN-SUFFIX,cdn1.skygo.mn
   - DOMAIN-SUFFIX,cdn4.skygo.mn
+  - DOMAIN-SUFFIX,123.rr.kg
+  - DOMAIN-SUFFIX,php.946985.filegear-sg.me
+  - DOMAIN-SUFFIX,cdn.hklive.tv
+  - DOMAIN-SUFFIX,php.946985.filegear-sg.me
+  - DOMAIN-SUFFIX,edgeware.tvb.com
+  - DOMAIN-SUFFIX,cdn.veryfast.filegear-sg.me
+  - DOMAIN-SUFFIX,veryfast.filegear-sg.me
+  - IP-CIDR,77.90.60.0/24
