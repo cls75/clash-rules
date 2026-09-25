@@ -12,4 +12,7 @@ payload:
   - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN,servd-anthropic-website.b-cdn.net
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-KEYWORD,wavve
