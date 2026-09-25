@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,faintv.com
   - DOMAIN-SUFFIX,4gtv.judy.xx.kg
   - DOMAIN-SUFFIX,cdn8.veryfast.filegear-sg.me
+  - DOMAIN-SUFFIX,infini.money
   - IP-CIDR,123.51.231.132/32
   - IP-CIDR,60.250.121.103/32
   - IP-CIDR,125.227.210.55/32
