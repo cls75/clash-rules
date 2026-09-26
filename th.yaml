@@ -1,1 +1,6 @@
-
+payload:
+  - DOMAIN-SUFFIX,cdn.3bbtv.com
+  - DOMAIN-SUFFIX,cco-streamer1.cdn.3bbtv.com
+  - DOMAIN-SUFFIX,cri-streamer3.cdn.3bbtv.com
+  - DOMAIN-SUFFIX,aya-streamer2.cdn.3bbtv.com
+  - DOMAIN-SUFFIX,cnt1-slb.cdn.3bbtv.com
