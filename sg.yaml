@@ -13,3 +13,5 @@ payload:
   - DOMAIN-SUFFIX,cdnlivetv.tv
   - DOMAIN-SUFFIX,api.cdnlivetv.tv
   - DOMAIN-SUFFIX,global.stun.twilio.com
+  - DOMAIN-SUFFIX,dlive.sx
+  - DOMAIN-SUFFIX,dlstreams.st
