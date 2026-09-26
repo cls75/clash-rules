@@ -10,3 +10,6 @@ payload:
   - DOMAIN-SUFFIX,channel.singteltvgo.com
   - DOMAIN-SUFFIX,fta.singteltvgo.com
   - DOMAIN-SUFFIX,d35j504z0x2vu2.cloudfront.net
+  - DOMAIN-SUFFIX,cdnlivetv.tv
+  - DOMAIN-SUFFIX,api.cdnlivetv.tv
+  - DOMAIN-SUFFIX,global.stun.twilio.com
