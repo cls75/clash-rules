@@ -6,5 +6,5 @@ payload:
   - DOMAIN-SUFFIX,toiyeuvietnam.dpdns.org
   - DOMAIN-SUFFIX,livevlisctcdnw.seenow.vn
   - DOMAIN-SUFFIX,cdnet-cdn-01.onsports.vn
-  vmttv.dpdns.org
-  vtvgolive-sctvdrm.vtvdigital.vn
+  - DOMAIN-SUFFIX,vmttv.dpdns.org
+  - DOMAIN-SUFFIX,vtvgolive-sctvdrm.vtvdigital.vn
