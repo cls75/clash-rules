@@ -49,6 +49,8 @@ payload:
   - DOMAIN-SUFFIX,aetv.com
   - DOMAIN-SUFFIX,ccpa-service.sp-prod.net
   - DOMAIN-SUFFIX,linear417-gb-hls1-prd-ak.cdn.skycdp.com
-  - DOMAIN-SUFFIX,t-mobile.pl
-  - DOMAIN-SUFFIX,t-online.de
-  - DOMAIN-SUFFIX,telekom.me
+  - DOMAIN-SUFFIX,cdnlivetv.tv
+  - DOMAIN-SUFFIX,api.cdnlivetv.tv
+  - DOMAIN-SUFFIX,global.stun.twilio.com
+  - DOMAIN-SUFFIX,dlive.sx
+  - DOMAIN-SUFFIX,dlstreams.st
