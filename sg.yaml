@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,fta.singteltvgo.com
   - DOMAIN-SUFFIX,d35j504z0x2vu2.cloudfront.net
   - DOMAIN-SUFFIX,cowedd4855ws.sbs
+  - IP-CIDR,103.155.18.0/24
