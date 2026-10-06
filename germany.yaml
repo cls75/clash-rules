@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,t-mobile.pl
   - DOMAIN-SUFFIX,t-online.de
   - DOMAIN-SUFFIX,telekom.me
+  - DOMAIN,cdn-s-lb2.pluscdn.pl
