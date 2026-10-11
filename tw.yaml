@@ -41,7 +41,6 @@ payload:
   - DOMAIN-SUFFIX,dreamtv.sylu.net
   - DOMAIN-SUFFIX,faintv.com
   - DOMAIN,4gtv.judy.xx.kg
-  - DOMAIN,4gtv.pendy.dpdns.org
   - DOMAIN-SUFFIX,cdn8.veryfast.filegear-sg.me
   - DOMAIN-SUFFIX,infini.money
   - IP-CIDR,123.51.231.132/32
