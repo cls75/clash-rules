@@ -10,9 +10,9 @@ payload:
   - DOMAIN-SUFFIX,tvmedia.net.au
   - DOMAIN-SUFFIX,rthktv31-vos-live.akamaized.net
   - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
-  - DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
-  - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
-  - DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
+  - DOMAIN,d1k2us671qcoau.cloudfront.net
+  - DOMAIN,d2anahhhmp1ffz.cloudfront.net
+  - DOMAIN,dfp6rglgjqszk.cloudfront.net
   - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
   - DOMAIN-KEYWORD,viutv
   - DOMAIN-SUFFIX,viu.now.com
@@ -32,13 +32,9 @@ payload:
   - DOMAIN,pccw-live-cdn-01.akamaized.net
   - DOMAIN,cdn.qd.je
   - DOMAIN-SUFFIX,qd.je
-  - DOMAIN-SUFFIX,skygo.mn
-  - DOMAIN-SUFFIX,cdn1.skygo.mn
-  - DOMAIN-SUFFIX,cdn4.skygo.mn
   - DOMAIN-SUFFIX,123.rr.kg
-  - DOMAIN-SUFFIX,php.946985.filegear-sg.me
+  - DOMAIN,php.946985.filegear-sg.me
   - DOMAIN-SUFFIX,cdn.hklive.tv
-  - DOMAIN-SUFFIX,php.946985.filegear-sg.me
   - DOMAIN-SUFFIX,edgeware.tvb.com
   - DOMAIN-SUFFIX,cdn.veryfast.filegear-sg.me
   - DOMAIN-SUFFIX,veryfast.filegear-sg.me
