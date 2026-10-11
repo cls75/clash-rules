@@ -12934,7 +12934,6 @@ payload:
   - DOMAIN-SUFFIX,bai.luyouwang.com
   - DOMAIN-SUFFIX,bai128.xyz
   - DOMAIN-SUFFIX,baidu-taobao-av.com
-  - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,baidu.dj
   - DOMAIN-SUFFIX,baidu1.cardbaobao.com
   - DOMAIN-SUFFIX,baiduapp.app
@@ -70228,7 +70227,6 @@ payload:
   - DOMAIN-SUFFIX,temptteam.com
   - DOMAIN-SUFFIX,temsys.temsys.fr
   - DOMAIN-SUFFIX,temu.com
-  - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,tencent.xn--io0a7i
   - DOMAIN-SUFFIX,tend-new.com
   - DOMAIN-SUFFIX,tend.io
