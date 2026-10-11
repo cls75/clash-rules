@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,5700.de5.net
+  - IP-CIDR,61.63.0.0/19
+  - IP-CIDR,211.23.0.0/16
