@@ -1,2 +1,4 @@
 payload:
   - DOMAIN,clm.ahimas.openstream.es
+  - DOMAIN,mad02.cdn.avatel.tv
+  - DOMAIN-SUFFIX,cdn.avatel.tv
