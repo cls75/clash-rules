@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,ntdofifreevcpc.akamaized.net
   - DOMAIN-KEYWORD,hamivideo
   - DOMAIN-KEYWORD,4gtv
+  - DOMAIN-KEYWORD,hinet
   - DOMAIN-SUFFIX,cdn.hinet.net
   - DOMAIN-SUFFIX,hamivideo.hinet.net
   - DOMAIN-SUFFIX,scc.ott.hinet.net
