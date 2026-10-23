@@ -6,3 +6,7 @@ payload:
   - DOMAIN-SUFFIX,skygo.mn
   - DOMAIN,cdn4.skygo.mn
   - DOMAIN,cineverse.g-mana.live
+  - DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
+  - DOMAIN-SUFFIX,msftncsi.com,DIRECT
+  - DOMAIN,www.msftconnecttest.com,DIRECT
+  - DOMAIN,ipv6.msftconnecttest.com,DIRECT
