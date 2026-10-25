@@ -1,13 +1,9 @@
 payload:
   - DOMAIN-KEYWORD,banijay-fearfactor-lg-uk
-  - DOMAIN-SUFFIX,iptv.852851.xyz
   - DOMAIN-SUFFIX,moveonjoy.com
   - IP-CIDR,89.187.179.148/32
   - DOMAIN-SUFFIX,z2u.com
   - DOMAIN-SUFFIX,nodeseek.com
-  - DOMAIN-SUFFIX,858.qzz.io
-  - DOMAIN-SUFFIX,bee.tzh911.qzz.io
-  - DOMAIN-SUFFIX,qzz.io
   - DOMAIN-SUFFIX,diver.eu.org
   - DOMAIN-SUFFIX,wrod.diver.eu.org
   - DOMAIN-SUFFIX,8plus.eu.org
