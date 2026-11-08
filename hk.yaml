@@ -29,6 +29,9 @@ payload:
   - DOMAIN-KEYWORD,RTHKTV34
   - DOMAIN-KEYWORD,RTHKTV35
   - DOMAIN-KEYWORD,RTHKTV36
+  - DOMAIN,rthktv33-vos-live.akamaized.net
+  - DOMAIN,rthktv34-vos-live.akamaized.net
+  - DOMAIN,rthktv35-vos-live.akamaized.net
   - DOMAIN,pccw-live-cdn-01.akamaized.net
   - DOMAIN,cdn.qd.je
   - DOMAIN-SUFFIX,qd.je
